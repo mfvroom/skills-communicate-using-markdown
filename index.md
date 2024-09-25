@@ -6,3 +6,6 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [ ] Finish Homework 3
+- [ ] Get an oil change
+- [ ] Get 8 hours of sleep
